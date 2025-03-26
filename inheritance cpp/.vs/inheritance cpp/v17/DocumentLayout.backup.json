@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\inheritance cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|solutionrelative:inheritance cpp\\inheritance cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account_util.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|solutionrelative:inheritance cpp\\Account_util.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Savings_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|solutionrelative:inheritance cpp\\Savings_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account_util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|solutionrelative:inheritance cpp\\Account_util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|solutionrelative:inheritance cpp\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{566D903F-5D97-45D5-9B65-48A14C32EA3B}|inheritance cpp\\inheritance cpp.vcxproj|solutionrelative:inheritance cpp\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account_util.cpp",
+              "DocumentMoniker": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account_util.cpp",
+              "RelativeDocumentMoniker": "inheritance cpp\\Account_util.cpp",
+              "ToolTip": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account_util.cpp*",
+              "RelativeToolTip": "inheritance cpp\\Account_util.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T09:44:56.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account_util.h",
+              "DocumentMoniker": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account_util.h",
+              "RelativeDocumentMoniker": "inheritance cpp\\Account_util.h",
+              "ToolTip": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account_util.h*",
+              "RelativeToolTip": "inheritance cpp\\Account_util.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-23T09:39:23.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Savings_Account.cpp",
+              "DocumentMoniker": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Savings_Account.cpp",
+              "RelativeDocumentMoniker": "inheritance cpp\\Savings_Account.cpp",
+              "ToolTip": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Savings_Account.cpp*",
+              "RelativeToolTip": "inheritance cpp\\Savings_Account.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T09:29:33.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cpp",
+              "DocumentMoniker": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account.cpp",
+              "RelativeDocumentMoniker": "inheritance cpp\\Account.cpp",
+              "ToolTip": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account.cpp*",
+              "RelativeToolTip": "inheritance cpp\\Account.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T08:44:02.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.h",
+              "DocumentMoniker": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account.h",
+              "RelativeDocumentMoniker": "inheritance cpp\\Account.h",
+              "ToolTip": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\Account.h*",
+              "RelativeToolTip": "inheritance cpp\\Account.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-23T08:27:24.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inheritance cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\inheritance cpp.cpp",
+              "RelativeDocumentMoniker": "inheritance cpp\\inheritance cpp.cpp",
+              "ToolTip": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\inheritance cpp\\inheritance cpp\\inheritance cpp.cpp*",
+              "RelativeToolTip": "inheritance cpp\\inheritance cpp.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T08:23:00.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

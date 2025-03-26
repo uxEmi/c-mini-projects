@@ -1,0 +1,3 @@
+﻿  IA 8puzzle.cpp
+C:\Users\0xEmi\Desktop\c++ projects\IA 8puzzle\IA 8puzzle\IA 8puzzle.cpp(58,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  IA 8puzzle.vcxproj -> C:\Users\0xEmi\Desktop\c++ projects\IA 8puzzle\x64\Debug\IA 8puzzle.exe
