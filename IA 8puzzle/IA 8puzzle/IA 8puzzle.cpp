@@ -67,15 +67,7 @@ void rezolvare(int x,int y,vector<vector<int>>& v)
 			}
 		}
 		swap(v[aux.x][aux.y], v[pq.top().x][pq.top().y]);
-		for (int i = 0; i < v.size(); i++)
-		{
-			for (int j = 0; j < v[i].size(); j++)
-				cout << v[i][j] << ' ';
-			cout << endl;
-		}
-		cout << endl;
 	}
-	
 }
 bool se_poate(const vector<vector<int>>& v)
 {

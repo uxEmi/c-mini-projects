@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\polymorhismudemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63325BA9-8257-478B-AD6C-6DF2B3B3F582}|polymorhismudemy\\polymorhismudemy.vcxproj|C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\polymorhismudemy\\polymorhismudemy\\polymorhismudemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63325BA9-8257-478B-AD6C-6DF2B3B3F582}|polymorhismudemy\\polymorhismudemy.vcxproj|solutionrelative:polymorhismudemy\\polymorhismudemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "polymorhismudemy.cpp",
+              "DocumentMoniker": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\polymorhismudemy\\polymorhismudemy\\polymorhismudemy.cpp",
+              "RelativeDocumentMoniker": "polymorhismudemy\\polymorhismudemy.cpp",
+              "ToolTip": "C:\\Users\\0xEmi\\Desktop\\c\u002B\u002B projects\\polymorhismudemy\\polymorhismudemy\\polymorhismudemy.cpp*",
+              "RelativeToolTip": "polymorhismudemy\\polymorhismudemy.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T10:55:12.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

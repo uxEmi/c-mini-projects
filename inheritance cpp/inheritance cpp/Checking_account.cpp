@@ -1,6 +1,6 @@
 #include "Checking_account.h"
 
-Checking_account::Checking_account(std::string name, double balance, double fee = 0.0) :Account(name, balance), fee(fee) {}
+Checking_account::Checking_account(std::string name, double balance, double fee) :Account(name, balance), fee(fee) {}
 bool  Checking_account::deposit(double amount)
 {
 	return Account::deposit(amount);
