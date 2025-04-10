@@ -1,6 +1,17 @@
 #include "Account.h"
-
-Account::Account(std::string name, double balance) : name(name), balance(balance) {}
+#include <exception>
+class IllegalBalanceException : public std::exception{
+public:
+	IllegalBalanceException() = default;
+	~IllegalBalanceException() = default;
+	virtual const char* what() const noexcept {
+		return "nu se poate introduce un cont pe negativ";
+	}
+};
+Account::Account(std::string name, double balance) : name(name), balance(balance) {
+		if(balance<0)
+			 throw IllegalBalanceException();
+}
 bool Account::deposit(double amount) 
 {
 	if (amount < 0)

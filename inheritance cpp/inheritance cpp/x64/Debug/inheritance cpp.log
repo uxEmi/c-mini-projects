@@ -1,6 +1,16 @@
 ﻿  Account.cpp
   Account_util.cpp
+  Checking_account.cpp
   inheritance cpp.cpp
-  Savings_Account.cpp
   Generating Code...
-  inheritance cpp.vcxproj -> C:\Users\0xEmi\Desktop\c++ projects\inheritance cpp\x64\Debug\inheritance cpp.exe
+Account_util.obj : error LNK2005: "public: __cdecl Account::Account(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double)" (??0Account@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@N@Z) already defined in Account.obj
+Account_util.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Account const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBVAccount@@@Z) already defined in Account.obj
+Account_util.obj : error LNK2005: "public: bool __cdecl Account::deposit(double)" (?deposit@Account@@QEAA_NN@Z) already defined in Account.obj
+Account_util.obj : error LNK2005: "public: double __cdecl Account::get_balance(void)const " (?get_balance@Account@@QEBANXZ) already defined in Account.obj
+Account_util.obj : error LNK2005: "public: bool __cdecl Account::withdraw(double)" (?withdraw@Account@@QEAA_NN@Z) already defined in Account.obj
+inheritance cpp.obj : error LNK2005: "public: __cdecl Account::Account(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,double)" (??0Account@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@N@Z) already defined in Account.obj
+inheritance cpp.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Account const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBVAccount@@@Z) already defined in Account.obj
+inheritance cpp.obj : error LNK2005: "public: bool __cdecl Account::deposit(double)" (?deposit@Account@@QEAA_NN@Z) already defined in Account.obj
+inheritance cpp.obj : error LNK2005: "public: double __cdecl Account::get_balance(void)const " (?get_balance@Account@@QEBANXZ) already defined in Account.obj
+inheritance cpp.obj : error LNK2005: "public: bool __cdecl Account::withdraw(double)" (?withdraw@Account@@QEAA_NN@Z) already defined in Account.obj
+C:\Users\0xEmi\Desktop\c++ projects\inheritance cpp\x64\Debug\inheritance cpp.exe : fatal error LNK1169: one or more multiply defined symbols found

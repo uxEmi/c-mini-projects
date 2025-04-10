@@ -6,7 +6,12 @@ using namespace std;
 
 int main()
 {
-	vector<Account> v;
-	v.push_back(Account("Larry"));
-	display(v);
+	try {
+		Account obj("wndq", -10);
+	}
+	catch (const IllegalBalanceException& ex)
+	{
+		std::cout << ex.what() << std::endl;
+	}
+
 }
