@@ -16,6 +16,14 @@ public:
     friend bool eval(int& m,vector<int> binar,const vector<Obiect>& ob);
 };
 
+bool ver(const vector<int> binar){
+    int c =  0;
+    for(const auto& i : binar)
+        if(i == 1)
+            c++;
+    return c == binar.size();
+}
+
 bool eval(int& m,vector<int> binar,const vector<Obiect>& ob){
     int s = 0, g = 0;
     for(int i = 0 ;i < binar.size();i++)
@@ -62,6 +70,8 @@ int main()
         for(int i = 0 ;i < iter;i++)
         {
             int poz = rand() % ob.size();
+            if (ver(binar))
+                break;
             while( binar[poz] == 1)
                 poz = rand() % ob.size();
             binar[poz] = 1;
