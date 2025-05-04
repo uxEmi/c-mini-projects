@@ -2,6 +2,7 @@
 #include <unordered_map>
 #include <vector>
 #include <ctime>
+#include <climits>
 
 using namespace std;
 
@@ -15,14 +16,16 @@ int construct_the_number(string s, unordered_map<char,int>& m)
     return nr;
 }
 
-bool eval( unordered_map<char,int>& m,const vector<string>& input)
+int eval( unordered_map<char,int>& m,const vector<string>& input)
 {
     int nr1 = 0,nr2 = 0,r = 0;
     nr1 = construct_the_number(input[0],m);
     nr2 = construct_the_number(input[1],m);
     r = construct_the_number(input[2],m);
-    return (nr1 + nr2) == r;
+    return abs((nr1 + nr2) - r);
 }
+
+
 
 int main()
 {
@@ -49,18 +52,22 @@ int main()
         input.emplace_back(aux);
     }
 
-    int restartari = -1;
+    int restartari = -1,min = INT_MAX;
 
     bool flag = true;
     while(flag)
     {
-        int poz1 = rand() % 10,poz2 = rand() % 10;
-        while(poz1 == poz2)
-            poz1 = rand() % 10;
-        swap(m[my_letters[poz1]],m[my_letters[poz2]]);
         for(int i=0;i<iter && flag;i++)
-            if(eval(m,input))
+        {
+            int poz1 = rand() % 10,poz2 = rand() % 10;
+            while(poz1 == poz2)
+                poz1 = rand() % 10;
+            swap(m[my_letters[poz1]],m[my_letters[poz2]]);
+            if(eval(m,input) == 0)
                 flag = false;
+            else if(min < eval(m,input))
+                    swap(m[my_letters[poz1]],m[my_letters[poz2]]);
+        }
         restartari++;
     }
     cout << "A fost nevoie de "<< restartari << " restartari" << endl;
